@@ -1,0 +1,54 @@
+        body{
+          padding-top:50px;
+          background-color:#F3F3F3;
+        }
+        .carousel{
+          height:500px;
+          background-color:#000;
+        }
+        .carousel .item{
+          height:500px;
+          background-color:#000;
+        }
+        .carousel img{
+          width:100%;
+        }
+        .carousel-caption a{
+          margin-bottom:10px;
+          font-size:12px;
+          line-height:15px;
+        }
+        #banner{
+          margin-bottom:40px;
+        }
+        #edu-container{
+          text-align:center;
+        }
+        #edu-container img{
+          height:100px;
+          width:100px;
+        }
+        .container hr{
+          border-top: 1px solid #E5E5E5;
+          margin:40px auto;
+        }
+        .job-row{
+          margin:20px auto;
+        }
+        .job-row img{
+          height:250px;
+          width:250px;
+          text-align:center;
+          vertical-align: center;
+        }
+        .job-row p{
+          font-size:14px;
+          line-height: 1.8;
+        }
+        .job-row h3,p{
+          margin-left:40px;
+        }
+        .footer{
+          height:50px;
+          line-height: 50px;
+        }
